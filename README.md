@@ -74,4 +74,4 @@ Pandas
 
 Scikit-Learn
 
-visualization:
+visualization:"C:\Users\Sitharam Chowdary\OneDrive\Pictures\An infographic-style2.png"
